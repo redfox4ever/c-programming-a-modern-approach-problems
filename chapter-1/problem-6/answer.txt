@@ -1,0 +1,1 @@
+Because it would be difficult to identify how many uderscores there are at a glance.
